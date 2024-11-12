@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "APPSNICA-CUBE", "APPSNICA-CUBE.dwproj", "{924CE9AB-0D92-450B-8611-C006006660BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{924CE9AB-0D92-450B-8611-C006006660BE}.Development|Default.ActiveCfg = Development
+		{924CE9AB-0D92-450B-8611-C006006660BE}.Development|Default.Build.0 = Development
+		{924CE9AB-0D92-450B-8611-C006006660BE}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C91F60-D579-45BC-9397-A274E31F6E8D}
+	EndGlobalSection
+EndGlobal

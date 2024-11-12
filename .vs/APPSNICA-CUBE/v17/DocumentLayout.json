@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\APPSNICADW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|solutionrelative:APPSNICADW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\Dim Aplicaciones.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|solutionrelative:Dim Aplicaciones.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\Dim Usuarios.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{924CE9AB-0D92-450B-8611-C006006660BE}|APPSNICA-CUBE.dwproj|solutionrelative:Dim Usuarios.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Usuarios.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\Dim Usuarios.dim",
+              "RelativeDocumentMoniker": "Dim Usuarios.dim",
+              "ToolTip": "C:\\Users\\Normin\\Desktop\\APPSNICA-CUBE\\Dim Usuarios.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\APPSNICA-CUBE\\Dim Usuarios.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T23:37:19.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Aplicaciones.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\Dim Aplicaciones.dim",
+              "RelativeDocumentMoniker": "Dim Aplicaciones.dim",
+              "ToolTip": "C:\\Users\\Normin\\Desktop\\APPSNICA-CUBE\\Dim Aplicaciones.dim [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\APPSNICA-CUBE\\Dim Aplicaciones.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-04T21:40:45.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APPSNICADW.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\APPSNICADW.cube",
+              "RelativeDocumentMoniker": "APPSNICADW.cube",
+              "ToolTip": "C:\\Users\\Normin\\OneDrive\\Desktop\\APPSNICA-CUBE\\APPSNICADW.cube [Dise\u00F1o]",
+              "RelativeToolTip": "APPSNICADW.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-04T21:11:02.467Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
